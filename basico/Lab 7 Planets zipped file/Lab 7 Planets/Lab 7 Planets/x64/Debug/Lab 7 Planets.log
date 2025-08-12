@@ -1,0 +1,11 @@
+﻿  lab_template.cpp
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(19,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(19,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(19,92): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(19,112): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(19,135): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(20,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(20,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(20,78): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rosal\source\repos\Lab 7 Planets\Lab 7 Planets\lab_template.cpp(20,99): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab 7 Planets.vcxproj -> C:\Users\rosal\source\repos\Lab 7 Planets\x64\Debug\Lab 7 Planets.exe
