@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rosal\source\spring2024\Lab3_LRUBufferPool\Lab3_LRUBufferPool\LRUBufferPool.h(69,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Lab3_LRUBufferPool.vcxproj -> C:\Users\rosal\source\spring2024\Lab3_LRUBufferPool\x64\Debug\Lab3_LRUBufferPool.exe
